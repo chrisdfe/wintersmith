@@ -1,4 +1,4 @@
-#![Wintersmith](http://wintersmith.io/images/wintersmith.svg)
+![Wintersmith](http://wintersmith.io/images/wintersmith.svg)
 
 Wintersmith is a simple yet flexible static site generator. It takes contents (markdown, less, scripts, etc), transforms them using plugins and outputs a static website (html, css, images, etc) that you can host anywhere.
 
